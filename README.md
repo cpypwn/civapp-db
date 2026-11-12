@@ -4,6 +4,8 @@ a public catalog of `.civapp` packages for CivHomebrew on Nintendo Switch 2.
 
 open **Options → Browse apps** in CivHomebrew to see the catalog. press **A** on an app to install, reinstall, or update it. CivHomebrew verifies the download size, SHA-256 hash, app ID, and release before installing. updates are chosen by the user; they do not install automatically.
 
+browse apps currently works with [cpypwn's CivHomebrew fork](https://github.com/cpypwn/CivHomebrew) bundled in mac2jb v0.8.2. upstream [XITRIX/CivHomebrew](https://github.com/XITRIX/CivHomebrew) does not include this feature out of the box.
+
 the catalog is [catalog.json](https://raw.githubusercontent.com/cpypwn/civapp-db/main/catalog.json). CivHomebrew also accepts other HTTPS catalogs through **Browse apps → Y: add source**.
 
 ## apps
