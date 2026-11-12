@@ -1,0 +1,36 @@
+{
+  "format": "civhomebrew-catalog",
+  "version": 1,
+  "apps": [
+    {
+      "id": "moonlight-civswitch",
+      "name": "Moonlight",
+      "release": "0.1.3",
+      "description": "Stream games from a computer running Sunshine",
+      "repository": "https://github.com/XITRIX/Moonlight-CivSwitch",
+      "package": "https://github.com/XITRIX/Moonlight-CivSwitch/releases/download/v0.1.3/moonlight.civapp",
+      "bytes": 1953490,
+      "sha256": "7986a1655431a6fbddc7a48d6c0ea9c76a5fd487f97ac446ad2155aeac5e35fc"
+    },
+    {
+      "id": "sw2nes",
+      "name": "SW2NES",
+      "release": "1.0.1",
+      "description": "Play NES games from .nes ROMs added through CivHomebrew FTP",
+      "repository": "https://github.com/Rodpad/SW2NES",
+      "package": "https://github.com/Rodpad/SW2NES/releases/download/v1.0.1/sw2nes.civapp",
+      "bytes": 833006,
+      "sha256": "dce4bb277c798baeb6e3ceb92c21ce5a565bd37556a0eb87a171b29715f6286e"
+    },
+    {
+      "id": "jellyfin-civswitch",
+      "name": "Jellyfin",
+      "release": "0.0.1",
+      "description": "Browse and play media from your Jellyfin server",
+      "repository": "https://github.com/THZoria/jellyfin",
+      "package": "https://github.com/THZoria/jellyfin/releases/download/0.0.1/jellyfin-civswitch.civapp",
+      "bytes": 172610,
+      "sha256": "347f8acb536a3ad521c554d9fafa7680be5f49b7de0a8867a05389aafd5b7e46"
+    }
+  ]
+}
